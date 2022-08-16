@@ -15,7 +15,7 @@
 - Using multiple if statements, the code checks which characters the user wants, each answer corresponding to an array
 - Using the .push() method, the code creates an array labeled 'options' 
 - Using a for loop, the code pulls from the newly created options array to generate a random and secure password.
-- Using a querySelector, the code returns the newly generated password to the viewport. 
+- Using querySelector, the code returns the newly generated password to the viewport. 
 
 <br>
 
