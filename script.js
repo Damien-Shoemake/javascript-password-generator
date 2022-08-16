@@ -44,7 +44,7 @@ function generatePassword() {
   passMax = 128;
   var options = []
   
-  // List of arrays to be added to the options array via the push method, to later be picked from at random with getRandomIndex()
+  // List of arrays to be added to the options array via the push method, to later be picked from at random with getRandomList
 
   var symbols = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "{", "}", "|", "~"]
   var numbers = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
