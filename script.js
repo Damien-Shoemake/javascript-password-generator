@@ -19,7 +19,7 @@ function getRandomNumber (minimum, maximum) {
 
 }
 
-// code needed
+// code needed to pull from combined arrays
 function getRandomList (index) {
 
   return index[getRandomNumber(0, index.length)]
